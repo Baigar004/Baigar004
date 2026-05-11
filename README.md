@@ -58,14 +58,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baigar004&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baigar004&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Baigar004&theme=dark&hide_border=verdadero&locale=es&short_numbers=verdadero" alt="GitHub Streak" /></a>
 ---
 
 ## 🎯 Objetivo
